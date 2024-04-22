@@ -12,7 +12,7 @@ https://loklak-wordpress.herokuapp.com is a sample Wordpress installation with a
 
 ###Deploy from Github directly:
 
-1. Click on 'Deploy to Heroku' to install a wordpress instance on Heroku.
+1. Click on 'Deploy to Build.io' to install a wordpress instance on Heroku.
   
   <p align="center">
     <a href="https://heroku.com/deploy?template=https://github.com/macminiosx/wordpress-ja-pg4wp2-heroku/tree/master">
